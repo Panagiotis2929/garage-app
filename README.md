@@ -18,9 +18,3 @@
 
 ## Τεχνολογίες
 Python 3.11+, PySide6, SQLite, reportlab
-
-## Εγκατάσταση και εκτέλεση
-```
-pip install -r requirements.txt
-python src/main.py
-```
